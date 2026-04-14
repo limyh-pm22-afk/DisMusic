@@ -26,3 +26,5 @@ loadCommands(client);
 loadEvents(client);
 
 client.login(process.env.DISCORD_TOKEN);
+
+//aa
